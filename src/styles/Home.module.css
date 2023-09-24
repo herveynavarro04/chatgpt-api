@@ -215,7 +215,7 @@
   }
 
   .logo {
-    filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
+    filter: invert(1) drop-shadow(0 0 0.3rem #fff5e1);
   }
 }
 
